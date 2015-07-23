@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7ad249a94afadfb44b546c9502c4cd5d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skripta: {fileID: 100000, guid: 9e23862b87bdb3c4391a341e065d27e7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

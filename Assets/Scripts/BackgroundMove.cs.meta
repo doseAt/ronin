@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a4530e41a1b00664caa4cb437d44d618
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - newBackGround: {fileID: 100000, guid: ad9ae79b40d4bde4995f434ed67d56e1, type: 2}
+  - camObj: {fileID: 100000, guid: 2666b5a9b1c975e41bde6bdfbd0cd7e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

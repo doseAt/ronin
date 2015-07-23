@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 75ac1fabd54e429438c097afd0405d71
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - samurai: {fileID: 100002, guid: a284544737edf5645ae27b81ea092b61, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

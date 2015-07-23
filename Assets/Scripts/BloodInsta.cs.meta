@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7dee4e13ce80cd44396c69f8bcaca7af
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blood1: {fileID: 100000, guid: 07bf7b3fd0d69294cb058e569cae0487, type: 2}
+  - blood2: {fileID: 100006, guid: 26a003146516dd44eb310016548dd357, type: 2}
+  - blood3: {fileID: 100006, guid: 2704f23d6d784d74898a31114a14fb0f, type: 2}
+  - blood4: {fileID: 100006, guid: 0bca3812494cfe74f96afbae3191cbe1, type: 2}
+  - blood5: {fileID: 100006, guid: ee8bc9fe0f29fd74187aff3ba9870bbe, type: 2}
+  - blood6: {fileID: 100006, guid: fcccbb83784b1da49b2ade1b0c74ff92, type: 2}
+  - blood7: {fileID: 100006, guid: b796909412f4731468e387768f0023cc, type: 2}
+  - blood8: {fileID: 100006, guid: 7c9165ec16c47da46b76145a58342169, type: 2}
+  - blood9: {fileID: 100006, guid: 00b38fb3e44c5a845b0b0a142d6dcf64, type: 2}
+  - blood10: {fileID: 100006, guid: c7f095df1f8a90845a2e8cc0d4df6fae, type: 2}
+  - blood11: {fileID: 100006, guid: 904e3d9d1b56a554bb72fb7a1d6d5484, type: 2}
+  - blood12: {fileID: 100008, guid: a0ec8026d7d912346af424ba45a2d74d, type: 2}
+  - blood13: {fileID: 100006, guid: 244309401528e364fa6e2aad4d3ec0f4, type: 2}
+  - blood14: {fileID: 100006, guid: 7723dcd7d3babf24d894bdff3f16ea40, type: 2}
+  - blood15: {fileID: 100006, guid: 5c0cdb5bcf1a2214fa66f98bb90a53d0, type: 2}
+  - blood16: {fileID: 100006, guid: d84ab0c3ece65e149bb8e39a9150a9ed, type: 2}
+  - blood17: {fileID: 100006, guid: 79000a86e60158e48827245d86fa5525, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
